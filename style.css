@@ -409,6 +409,18 @@ input[type="checkbox"]:checked + label:before{width:10px;top:-5px;left:5px;borde
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 @media (min-width: 2000px) {
 h1{font-size:50px}
 h2{font-size:43px}
@@ -983,10 +995,10 @@ h2{font-size:43px}
 .mockup2svg3{animation:none}
 .mockup2svg4{animation:none}
 .mockup2svg5{animation:none}
-.diferenciaisWrapper{background-image:url(img/bgGreenP.webp);background-size: 150% 30% !important;background-position: top left; background-repeat: repeat-y;}
-.recursosWrapper,#recursos{background-image:url(img/bgRedP.webp);background-size: 150% 20% !important;background-position: top left; background-repeat: repeat-y;}
+.diferenciaisWrapper{background-image:url(img/bgGreenP.jpg);background-size: 150% 30% !important;background-position: top left; background-repeat: repeat-y;}
+.recursosWrapper,#recursos{background-image:url(img/bgRedP.jpg);background-size: 150% 20% !important;background-position: top left; background-repeat: repeat-y;}
 .modulosWrapper{background:var(--red-color);background-size:cover}
-.novosModulosWrapper{background-image:url(img/spaceShipP.webp);background-size:cover;background-repeat:no-repeat;background-position:center;background-origin:center}
-.section3Wrapper{background-image: url(img/bg2P.webp);
+.novosModulosWrapper{background-image:url(img/spaceShipP.jpg);background-size:cover;background-repeat:no-repeat;background-position:center;background-origin:center}
+.section3Wrapper{background-image: url(img/bg2P.jpg);
 }
 }
